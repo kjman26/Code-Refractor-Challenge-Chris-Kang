@@ -24,8 +24,11 @@ I learned more than I can recount, however to name a few:
     ```
 ##Credits
     HUGE shout out to Joe and the TA's! 
-    
+
 Zoom:
 6-16: https://applications.zoom.us/lti/rich/home/recording/detail
 6-15:https://applications.zoom.us/lti/rich/home/recording/detail
 6-14: https://applications.zoom.us/lti/rich/home/recording/detail
+
+
+Thank you for reading {<ME>}!
